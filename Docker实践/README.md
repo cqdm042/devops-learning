@@ -4,6 +4,8 @@
 
 学习并实践 Docker 容器化技术，使用 Docker Desktop 搭建本地服务运行环境。
 
+![Docker Desktop 4.81.0 的 Containers 页面，容器列表中有一个名为 new-api-main 的容器，CPU 与内存占用显示为 0](./doceer.png)
+
 ## 使用技术
 
 - Docker

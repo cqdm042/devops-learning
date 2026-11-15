@@ -39,6 +39,8 @@
 - 服务部署实验
 - 网络环境测试
 
+![VMware Workstation 中名为 one 的虚拟机正在运行 Windows 11 桌面，左侧库中列有 one 与 tow 两台虚拟机](./VMware%20Workstation%20Pro.png)
+
 ## 学习收获
 
 掌握虚拟机基础管理流程，了解虚拟化资源分配、网络配置以及测试环境搭建方法。
