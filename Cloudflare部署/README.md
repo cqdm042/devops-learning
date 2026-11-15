@@ -44,6 +44,8 @@
 - 自动化部署
 - HTTPS安全访问
 
+![Cloudflare Pages 控制台与部署记录](./Cloudflare.png)
+
 ## 学习收获
 
 通过本项目熟悉了从代码托管到网站上线的完整流程，掌握了 Cloudflare Pages 基础使用方法以及域名、DNS、HTTPS相关配置。
